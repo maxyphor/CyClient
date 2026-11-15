@@ -1,12 +1,10 @@
-# Cy Client
+# CyImGUI
 
-👋Hello! Cy Client is my Minecraft Java client. My plan was to have it include ONLY modules that are for practical use, as clients like Lunar Client have a bit too many features, all of which chip away at performance.
+👋Hello! Cy Client is Cyboxias Minecraft Java client. His plan was to have it include ONLY modules that are for practical use, as clients like Lunar Client have a bit too many features, all of which chip away at performance.
 
-💭 About Cy Client
-
-> Cy Client is just a simple Fabric mod.
+> CyImGUI WAS just a simple Fabric mod.
 >
-> I prefer if you use the launcher with it, but it can be used with any instance that runs Fabric and has the Fabric API and Loader mods also present.
+> um
 
 <br />
 
