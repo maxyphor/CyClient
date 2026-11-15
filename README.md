@@ -9,5 +9,3 @@
 <br />
 
 ⌨️ The in-game ClickGUI is accessible through Right Shift, but it can be rebinded in the settings tab. Each module can be toggled respectively with the keybind you set it on.
-
-# THANK YOU FOR USING CY CLIENT!
